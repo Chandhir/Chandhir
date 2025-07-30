@@ -1,7 +1,7 @@
 ## Hey! Nice to see you👋
 
 <div>Welcome to my page!</div>
-I'm Chandrakanth, Fullstack ATE developer from  Hosur, India, currently living in  Bangalore, India.
+I'm Chandrakanth, Fullstack ATE developer from Bangalore, India.
 
 #### Connect with me:
 
