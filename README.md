@@ -4,7 +4,10 @@
 I'm Chandrakanth, Fullstack ATE developer from Bangalore, India.
 
 #### Connect with me:
-
+<p dir='auto'>
+<a href="https://linkedin.com/in/codeSTACKr#gh-dark-mode-only" rel="nofollow"> <img src="https://codeSTACKr/codeSTACKr/raw/master/img/linkedin-dark.svg" alt="website" style="max-width: 100%;"/> </a>
+</p>
+ 
 #### Languages and Tools:
 <div align="left">
 	<code><img width="30" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
