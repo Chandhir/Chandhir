@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hey! Nice to see you👋
 
+Welcome to my page!
+I'm Chandrakanth M, Fullstack ATE developer from  Hosur, India, currently living in  Bangalore, India.
 <!--
 **Chandhir/Chandhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
