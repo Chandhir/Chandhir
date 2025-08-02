@@ -1,19 +1,22 @@
 ## Hey! Nice to see you👋
 
-<div>Welcome to my page!</div>
-I'm Chandrakanth, Fullstack ATE developer from Bangalore, India.
-<p>
-<div>
-🔭 I’m currently working on ...<br>
-🌱 I’m currently learning ...<br>
-👯 I’m looking to collaborate on ...<br>
-🤔 I’m looking for help with ...<br>
-💬 Ask me about ...<br>
-📫 How to reach me: ...<br>
-😄 Pronouns: ...<br>
-⚡ Fun fact: ...
-</div>
-</p>
+Welcome to my page!  
+I'm Chandrakanth, a Fullstack ATE Developer from Bangalore, India.
+
+🔭 I’m currently working on: LabVIEW-based ATE systems with web monitoring 
+
+🌱 I’m currently learning: React, REST APIs and advanced LabVIEW RT techniques.
+
+👯 Open to: Test automation (ATE) & hybrid LabVIEW-Web projects
+
+🤔 I’m looking for help with:  Optimizing cross-platform communication between LabVIEW and web clients.
+
+💬 Ask me about:  LabVIEW, hardware integration, test systems 
+
+📫 How to reach me: chandhiran660@gmail.com
+
+⚡ Fun fact: Built a web-controlled ATE demo rig!
+
  
 #### Languages and Tools:
 <div align="left">
@@ -42,14 +45,14 @@ I'm Chandrakanth, Fullstack ATE developer from Bangalore, India.
   <tbody>
     <tr>
       <td><a href="https://github.com/Chandhir/LabVIEW-Based-We-Application.git"><b>LabVIEW based Web Application</b></a></td>
-      <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a285591e2d1360fdb21cd80b24c554f6aac15425045c2e0f783daccb9da557d3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431"><img alt="Stars" src="https://camo.githubusercontent.com/a285591e2d1360fdb21cd80b24c554f6aac15425045c2e0f783daccb9da557d3/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&amp;labelColor=343b41" style="max-width: 100%;"></a></td>
-      <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/ef63ce20bb5f66ceee0254c6295b9d29d84e994fcf4fd733368e82d5a76e595c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431"><img alt="Forks" src="https://camo.githubusercontent.com/ef63ce20bb5f66ceee0254c6295b9d29d84e994fcf4fd733368e82d5a76e595c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&amp;labelColor=343b41" style="max-width: 100%;"></a></td>
-      <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/dbd06e5dca3704b172bfa89df3f56b3cbfd187030188c0b38959948e387e5796/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431"><img alt="Issues" src="https://camo.githubusercontent.com/dbd06e5dca3704b172bfa89df3f56b3cbfd187030188c0b38959948e387e5796/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&amp;labelColor=343b41" style="max-width: 100%;"></a></td>
-      <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8274dd00907e730598e14e9b484b312acf56848610e01a6a39c675a45fd4eb0c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431"><img alt="Pull Requests" src="https://camo.githubusercontent.com/8274dd00907e730598e14e9b484b312acf56848610e01a6a39c675a45fd4eb0c/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f74686d73676272742f72656163742d73696d706c652d70756c6c2d746f2d726566726573683f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&amp;labelColor=343b41" style="max-width: 100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer nofollow"><b>--</b></a></td>
+      <td><a target="_blank" rel="noopener noreferrer nofollow" ><b>--</b></a></td>
+      <td><a target="_blank" rel="noopener noreferrer nofollow" ><b>--</b></a></td>
+      <td><a target="_blank" rel="noopener noreferrer nofollow" ></a><b>--</b></a></td>
     </tr>
-	  <tr>
+	<tr>
       <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript &amp; React Chrome Extension Starter</b></a></td>
-      <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/cd28555067a4b4bc11c06ea79ace35af79963f7d547031edfc79b144126a52b0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f74686d73676272742f4368726f6d652d457874656e73696f6e2d776974682d52656163742d616e642d547970657363726970742d537461727465722d5061636b3f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431"><img alt="Stars" src="https://camo.githubusercontent.com/cd28555067a4b4bc11c06ea79ace35af79963f7d547031edfc79b144126a52b0/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f73746172732f74686d73676272742f4368726f6d652d457874656e73696f6e2d776974682d52656163742d616e642d547970657363726970742d537461727465722d5061636b3f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&amp;labelColor=343b41" style="max-width: 100%;"></a></td>
+      <td><a target="_blank" rel="noopener noreferrer nofollow" ><b>--</b></a></td>
       <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/08083f6c1de4d11beb116dc84d80d0626b350b28813c17abeccd549b96ccd617/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f74686d73676272742f4368726f6d652d457874656e73696f6e2d776974682d52656163742d616e642d547970657363726970742d537461727465722d5061636b3f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431"><img alt="Forks" src="https://camo.githubusercontent.com/08083f6c1de4d11beb116dc84d80d0626b350b28813c17abeccd549b96ccd617/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f666f726b732f74686d73676272742f4368726f6d652d457874656e73696f6e2d776974682d52656163742d616e642d547970657363726970742d537461727465722d5061636b3f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&amp;labelColor=343b41" style="max-width: 100%;"></a></td>
       <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a853654879dcec729319d8feb02dca401d1de021da5d1dc9b0ef9ae7725986c8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f74686d73676272742f4368726f6d652d457874656e73696f6e2d776974682d52656163742d616e642d547970657363726970742d537461727465722d5061636b3f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431"><img alt="Issues" src="https://camo.githubusercontent.com/a853654879dcec729319d8feb02dca401d1de021da5d1dc9b0ef9ae7725986c8/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732f74686d73676272742f4368726f6d652d457874656e73696f6e2d776974682d52656163742d616e642d547970657363726970742d537461727465722d5061636b3f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&amp;labelColor=343b41" style="max-width: 100%;"></a></td>
       <td><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/91ab08facb241bf1b760ef7c81a706b649d77696f9e01cc84ae026cfa9078bec/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f74686d73676272742f4368726f6d652d457874656e73696f6e2d776974682d52656163742d616e642d547970657363726970742d537461727465722d5061636b3f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431"><img alt="Pull Requests" src="https://camo.githubusercontent.com/91ab08facb241bf1b760ef7c81a706b649d77696f9e01cc84ae026cfa9078bec/68747470733a2f2f696d672e736869656c64732e696f2f6769746875622f6973737565732d70722f74686d73676272742f4368726f6d652d457874656e73696f6e2d776974682d52656163742d616e642d547970657363726970742d537461727465722d5061636b3f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d333433623431" data-canonical-src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&amp;labelColor=343b41" style="max-width: 100%;"></a></td>
