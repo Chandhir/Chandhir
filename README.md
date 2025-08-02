@@ -51,7 +51,7 @@ I'm Chandrakanth, a Fullstack ATE Developer from Bangalore, India.
       <td><a target="_blank" rel="noopener noreferrer nofollow" ></a><b>--</b></a></td>
     </tr>
 	<tr>
-      <td><a href="https://github.com/Chandhir/LabVIEW-Based-We-Application.git"><b>Hosting a Web Apllication in GitHub</b></a></td>
+      <td><a href="https://github.com/Chandhir/Web-Application-2.git"><b>Hosting a Web Apllication in GitHub</b></a></td>
       <td><a target="_blank" rel="noopener noreferrer nofollow"><b>--</b></a></td>
       <td><a target="_blank" rel="noopener noreferrer nofollow" ><b>--</b></a></td>
       <td><a target="_blank" rel="noopener noreferrer nofollow" ><b>--</b></a></td>
