@@ -1,21 +1,15 @@
 ## Hey! Nice to see you👋
 
 Welcome to my page!  
-I'm Chandrakanth, a Fullstack ATE Developer from Bangalore, India.
+I'm Chandrakanth, a Fullstack ATE Developer from Bangalore, India. 
 
-🔭 I’m currently working on: LabVIEW-based ATE systems with web monitoring 
-
-🌱 I’m currently learning: React, REST APIs and advanced LabVIEW RT techniques.
-
-👯 Open to: Test automation (ATE) & hybrid LabVIEW-Web projects
-
-🤔 I’m looking for help with:  Optimizing cross-platform communication between LabVIEW and web clients.
-
-💬 Ask me about:  LabVIEW, hardware integration, test systems 
-
-📫 How to reach me: chandhiran660@gmail.com
-
-⚡ Fun fact: Built a web-controlled ATE demo rig!
+🔭 I’m currently working on: LabVIEW-based ATE systems with web monitoring!<br>
+🌱 I’m currently learning: React, REST APIs and advanced LabVIEW RT techniques.<br>
+👯 Open to: Test automation (ATE) & hybrid LabVIEW-Web projects.<br>
+🤔 I’m looking for help with:  Optimizing cross-platform communication between LabVIEW and web clients.<br>
+💬 Ask me about:  LabVIEW, hardware integration, test systems!<br>
+📫 How to reach me: chandhiran660@gmail.com<br>
+⚡ Fun fact: Built a web-controlled ATE demo rig!<br>
 
  
 #### Languages and Tools:
